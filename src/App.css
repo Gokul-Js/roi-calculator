@@ -1,0 +1,12 @@
+.App {
+  position: absolute;
+  width: 534px;
+  height: 832px;
+  left: 500px;
+  top: 15px;
+  padding: 10px;
+  background: #FFFFFF;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
